@@ -1,0 +1,8 @@
+//
+// Created by nguye on 11/7/2025.
+//
+
+#ifndef TEXTBASEDRPG_BINARYTREE_H
+#define TEXTBASEDRPG_BINARYTREE_H
+
+#endif //TEXTBASEDRPG_BINARYTREE_H
